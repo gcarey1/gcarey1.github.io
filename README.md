@@ -1,8 +1,3 @@
----
-title: "Grace Carey at Iowa State"
-author: "Grace Carey"
----
-
 
 # Grace Carey
 
