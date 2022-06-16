@@ -4,6 +4,6 @@ I am a PhD student/Graduate Research Assistant who is passionate about improving
 
 I am a member of the Genomics and Environmental Research in Microbial Systems Laboratory at Iowa State in the Agricultural and Biosystems Engineering Department under Dr Adina Howe. My research focuses on the transfer of antimicrobial resistance genes from manure associated bacteria to plant rhizosphere and endosphere microbial communities.
 
-
+![lab](lab.jpg)
 
 
