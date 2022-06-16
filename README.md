@@ -6,6 +6,8 @@ I am a PhD student who is passionate about improving sustainable agriculture thr
 
 I am a member of the Genomics and Environmental Research in Microbial Systems ([GERMS](http://www.germslab.org/)) Laboratory at Iowa State in the [Agricultural and Biosystems Engineering Department](https://www.abe.iastate.edu/) under [Dr Adina Howe](https://www.abe.iastate.edu/adina-howe/). My research focuses on the transfer of antimicrobial resistance genes from manure associated bacteria to plant rhizosphere and endosphere microbial communities.
 
+## [CV](https://drive.google.com/file/d/1SwITybVAVAr07zX4ksvWOx8BBpqjjgiT/view?usp=sharing)
+
 ## Contact
 
 ### Email: gcarey1@iastate.edu
