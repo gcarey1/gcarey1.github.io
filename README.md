@@ -7,7 +7,7 @@ I am a member of the Genomics and Environmental Research in Microbial Systems ([
 
 ## Contact
 
-### Email: [gcarey1@iastate.edu](gcarey1.iastate.edu)
+### [gcarey1@iastate.edu](gcarey1.iastate.edu)
 
 ### [Linkedin](https://www.linkedin.com/in/grace-carey94/)
 
