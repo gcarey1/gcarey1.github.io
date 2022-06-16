@@ -1,5 +1,6 @@
-
 # Grace Carey
+
+![prairie2](prairie2.png)
 
 I am a PhD student who is passionate about improving sustainable agriculture through soil and environmental microbiology.  I have completed a B.S. in environmental horticulture at Virginia Tech, and am pursuing a PhD in the [Interdepartmental Microbiology program](https://www.micrograd.iastate.edu/) at Iowa State University.
 
@@ -7,7 +8,7 @@ I am a member of the Genomics and Environmental Research in Microbial Systems ([
 
 ## Contact
 
-### [gcarey1@iastate.edu](gcarey1.iastate.edu)
+### Email: gcarey1@iastate.edu
 
 ### [Linkedin](https://www.linkedin.com/in/grace-carey94/)
 
@@ -15,6 +16,4 @@ I am a member of the Genomics and Environmental Research in Microbial Systems ([
 
 ### [Github](https://github.com/gcarey1)
 
-![soil](hand.jpg)
-
-
+![labwork](labwork.jpg)
