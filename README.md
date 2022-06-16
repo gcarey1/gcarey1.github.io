@@ -15,6 +15,6 @@ I am a member of the Genomics and Environmental Research in Microbial Systems ([
 
 ### [Github](https://github.com/gcarey1)
 
-![lab](lab.jpg)
+![soil](hand.jpg)
 
 
