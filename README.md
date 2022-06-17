@@ -12,8 +12,9 @@ My research focuses on the transfer of antimicrobial resistance genes from manur
 
 ### [Linkedin](https://www.linkedin.com/in/grace-carey94/) [Twitter](https://twitter.com/gcmicrobe)
 
-### [Github](https://github.com/gcarey1) Email: gcarey1@iastate.edu
+### [Github](https://github.com/gcarey1)   [CV](https://drive.google.com/file/d/1SwITybVAVAr07zX4ksvWOx8BBpqjjgiT/view?usp=sharing)
 
-### [CV](https://drive.google.com/file/d/1SwITybVAVAr07zX4ksvWOx8BBpqjjgiT/view?usp=sharing)
+### Email: gcarey1@iastate.edu
+
 
 ![footer](footer.png)
